@@ -1,4 +1,4 @@
-# my persola template to begin the new project
+# My Personal template to begin the new project
 
 This template used:
 
